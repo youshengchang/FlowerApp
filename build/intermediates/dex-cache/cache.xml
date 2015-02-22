@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\AndriodProject\FlowerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\AndriodProject\FlowerApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1c13b2b66eddd34101da64a8de4319f2149a99ee.jar" />
-    </item>
-    <item
-        jar="C:\AndriodProject\FlowerApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\AndriodProject\FlowerApp\app\build\intermediates\pre-dexed\debug\classes-857ce4152e231ba70fa365e58a3b4628079dc5c2.jar" />
-    </item>
-    <item
-        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="/Users/youshengchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\AndriodProject\FlowerApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cde0fe43c1d155a84c58787d13ed53f1de001e61.jar" />
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FlowerApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da8ad99330849f3485026c7bb7cd5863a0e9c663.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/FlowerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FlowerApp/app/build/intermediates/pre-dexed/debug/classes-3e3a72ea511fbe6cde1dae317447d0f21af9161f.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/FlowerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FlowerApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a5be58f37309238d6dcaa7ce88b6a51f2a2c95ef.jar" />
     </item>
 
 </items>
